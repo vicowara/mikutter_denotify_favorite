@@ -1,0 +1,9 @@
+---
+slug: :mikutter_denotify_favorite
+depends:
+  mikutter: 3.3.5
+  plugin: []
+version: '1.0'
+author: 
+name: "非通知ふぁぼ"
+description: "他の人がRTしたツイートを非通知でふぁぼる"
